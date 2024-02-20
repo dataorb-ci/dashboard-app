@@ -3,8 +3,10 @@
   "name": "dashboard",
   "title": "Dashboard",
   "coreApp": true,
-  "version": "99.10.10",
-  "description": "DataOrb Dashboard app",
+  "id": "8a05188c-5b2d-496d-a08e-595810748d52",
+  "minDHIS2Version": "2.40",
+  "version": "100.0.4",
+  "description": "DHIS2 Dashboard app",
   "entryPoints": {
     "app": "index.html"
   }
