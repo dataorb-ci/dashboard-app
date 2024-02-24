@@ -1,12 +1,12 @@
 {
   "type": "app",
-  "name": "dashboard",
-  "title": "Dashboard",
+  "name": "analytics-dashboard",
+  "title": "Analytics Dashboard",
   "coreApp": true,
-  "id": "8a05188c-5b2d-496d-a08e-595810748d52",
+  "id": "3405188c-5b2d-496d-a08e-595810748e43",
   "minDHIS2Version": "2.40",
   "version": "100.0.4",
-  "description": "DHIS2 Dashboard app",
+  "description": "DataOrb Dashboard app",
   "entryPoints": {
     "app": "index.html"
   }

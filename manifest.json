@@ -1,7 +1,7 @@
 {
-  "short_name": "Dashboard",
-  "name": "Dashboard",
-  "description": "DHIS2 Dashboard app",
+  "short_name": "Analytics Dashboard",
+  "name": "Analytics Dashboard",
+  "description": "DataOrb Dashboard app",
   "icons": [
     {
       "src": "android-chrome-192x192.png",

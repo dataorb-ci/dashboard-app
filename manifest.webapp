@@ -1,9 +1,9 @@
 {
-  "app_hub_id": "8a05188c-5b2d-496d-a08e-595810748d52",
+  "app_hub_id": "3405188c-5b2d-496d-a08e-595810748e43",
   "appType": "APP",
-  "short_name": "dashboard",
-  "name": "Dashboard",
-  "description": "DHIS2 Dashboard app",
+  "short_name": "analytics-dashboard",
+  "name": "Analytics Dashboard",
+  "description": "DataOrb Dashboard app",
   "version": "100.0.4",
   "core_app": true,
   "launch_path": "index.html",
