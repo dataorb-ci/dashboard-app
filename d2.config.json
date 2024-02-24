@@ -3,7 +3,6 @@
   "name": "analytics-dashboard",
   "title": "Analytics Dashboard",
   "coreApp": true,
-  "id": "3405188c-5b2d-496d-a08e-595810748e43",
   "minDHIS2Version": "2.40",
   "version": "100.0.4",
   "description": "DataOrb Dashboard app",
